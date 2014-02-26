@@ -15,5 +15,6 @@
   -->
 
 <resources>
+    <string name="pull_to_refresh_pull_label">Σύρετε προς τα κάτω για ανανεώσετε</string>
     <string name="pull_to_refresh_refreshing_label">Φορτώνει…</string>
 </resources>
